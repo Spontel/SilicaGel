@@ -6,6 +6,8 @@ By using Silica Gel, you are agreeing to the Terms of Service. If you don't agre
 
 ## 2. Bot Purpose
 
-This bot is used for light server moderation and entertainment purposes. By reading this Terms of Service, you are agreeing to not use this bot for unlawful purposes or criminal activities.
+This bot is used for light server moderation and entertainment purposes. By using Silica Gel, you are agreeing to not use this bot for unlawful purposes or criminal activities.
 
 ## 3. Data Policy
+
+By using Silica Gel, you are agreeing to all forms of data collection as described in the [Privacy Policy]()
