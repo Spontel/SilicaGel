@@ -10,4 +10,4 @@ This bot is used for light server moderation and entertainment purposes. By usin
 
 ## 3. Data Policy
 
-By using Silica Gel, you are agreeing to all forms of data collection as described in the [Privacy Policy]()
+By using Silica Gel, you are agreeing to all forms of data collection as described in the [Privacy Policy](https://github.com/Spontel/SilicaGel/blob/main/PrivacyPolicy.md)
